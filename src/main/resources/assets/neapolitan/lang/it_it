@@ -1,0 +1,140 @@
+{
+  "block.neapolitan.vanilla_ice_cream_block": "Blocco di Gelato alla vaniglia",
+  "block.neapolitan.chocolate_ice_cream_block": "Blocco di Gelato al cioccolato",
+  "block.neapolitan.strawberry_ice_cream_block": "Blocco di Gelato alla fragola",
+  "block.neapolitan.banana_ice_cream_block": "Blocco di Gelato alla banana",
+  
+  "block.neapolitan.chocolate_block": "Blocco di cioccolato",
+  "block.neapolitan.chocolate_bricks": "Mattoni di cioccolato",
+  "block.neapolitan.chocolate_brick_slab": "Lastre di mattoni di cioccolato",
+  "block.neapolitan.chocolate_brick_stairs": "Scale di mattoni di cioccolato",
+  "block.neapolitan.chocolate_brick_wall": "Muretto di mattoni di cioccolato",
+  "block.neapolitan.chocolate_brick_vertical_slab": "Lastra verticale di mattoni di cioccolato",
+  
+  "block.neapolitan.chiseled_chocolate_bricks": "Mattone di cioccolato ciselato",
+  
+  "block.neapolitan.chocolate_tiles": "mattone di cioccolato",
+  "block.neapolitan.chocolate_tile_slab": "Lastra mattonelle di cioccolato",
+  "block.neapolitan.chocolate_tile_stairs": "Scale di mattonelle di cioccolato",
+  "block.neapolitan.chocolate_tile_wall": "muretto di mattonelle di cioccolato",
+  "block.neapolitan.chocolate_tile_vertical_slab": "Lastra verticali di mattonelle di cioccolato",
+  
+  "block.neapolitan.frond_thatch": "Blocco di foglie",
+  "block.neapolitan.frond_thatch_stairs": "scale di foglie",
+  "block.neapolitan.frond_thatch_slab": "Lastra di foglie",
+  "block.neapolitan.frond_thatch_vertical_slab": "lastra verticale di foglie",
+  
+  "block.neapolitan.strawberry_basket": "Cassa di fragole",
+  "block.neapolitan.white_strawberry_basket": "Cassa di fragole bianche",
+  "block.neapolitan.vanilla_pod_block": "Blocco di baccelli di vaniglia",
+  "block.neapolitan.dried_vanilla_pod_block": "Blocco di baccelli di vaniglia essiccati",
+  "block.neapolitan.banana_crate": "Cassa di banane",
+
+  "block.neapolitan.strawberry_bush": "Cespuglio di fragole",
+
+  "block.neapolitan.vanilla_vine": "Vite di vaniglia",
+  "block.neapolitan.vanilla_vine_plant": "Vite di vaniglia",
+  
+  "block.neapolitan.banana_stalk": "Gambo di banano",
+  "block.neapolitan.banana_bundle": "Pacco di banane",
+  
+  "block.neapolitan.small_banana_frond": "Fronda di banana piccola",
+  "block.neapolitan.banana_frond": "Fronda di banana",
+  "block.neapolitan.large_banana_frond": "Fronda di banana grande",
+  
+  "block.neapolitan.chocolate_cake": "Torta al cioccolato",
+  "block.neapolitan.strawberry_cake": "Torta di fragole",
+  "block.neapolitan.vanilla_cake": "Torta alla Vaniglia",
+  "block.neapolitan.banana_cake": "Torta alla Banana",
+  
+  "item.neapolitan.milk_bottle": "Bottiglia di latte",
+  "item.neapolitan.ice_cubes": "Cubetti di ghiaccio",
+  
+  "item.neapolitan.chocolate_bar": "Barretta di cioccolata",
+  "item.neapolitan.chocolate_ice_cream": "Gelato al cioccolato",
+  "item.neapolitan.chocolate_milkshake": "Milkshake al cioccolato",
+  "item.neapolitan.chocolate_spider_eye": "Cioccolate al l'occhio di ragno",
+  
+  "item.neapolitan.strawberry_pips": "Strawberry Pips",
+  "item.neapolitan.strawberries": "Fragole",
+  "item.neapolitan.strawberry_ice_cream": "Gelato alla Fragola",
+  "item.neapolitan.strawberry_scones": "Focaccine alle fragole",
+  "item.neapolitan.strawberry_milkshake": "Milkshake alla Fragola",
+  
+  "item.neapolitan.vanilla_pods": "Bacche di vaniglia",
+  "item.neapolitan.dried_vanilla_pods": "Bacche di vaniglia disidratate",
+  "item.neapolitan.vanilla_ice_cream": "Gelato alla vaniglia",
+  "item.neapolitan.vanilla_pudding": "Pudding alla vaniglia",
+  "item.neapolitan.vanilla_milkshake": "Milkshake alla vaniglia",
+  "item.neapolitan.vanilla_fudge": "Fudge alla vaniglia",
+  
+  "item.neapolitan.banana": "Banana",
+  "item.neapolitan.banana_bunch": "Casco di banane",
+  "item.neapolitan.dried_banana": "Banana disidratate",
+  "item.neapolitan.banana_ice_cream": "Gelato alla banana",
+  "item.neapolitan.banana_milkshake": "Milkshake alla banana",
+  "item.neapolitan.banana_bread": "Pane di banana",
+  "item.neapolitan.bananarrow": "Freccia-banana",
+  
+  "item.neapolitan.chocolate_strawberries": "Cioccolato alla Fragola",
+  "item.neapolitan.white_strawberries": "Fragole bianche",
+  "item.neapolitan.vanilla_chocolate_fingers": "Dita al cioccolato alla vaniglia",
+  "item.neapolitan.strawberry_banana_smoothie": "Smoothie alla banana e fragola",
+  "item.neapolitan.neapolitan_ice_cream": "Gelato Napoletano",
+  
+  "item.neapolitan.monkey_banner_pattern": "Figura per stendardo",
+  "item.neapolitan.monkey_banner_pattern.desc": "scimmia",
+  
+  "item.neapolitan.monkey_spawn_egg": "Uovo generatore di scimmia",
+  "item.neapolitan.plantain_spider_spawn_egg": "Uovo generatore di Ragno delle Piantaggine",
+  
+  "entity.neapolitan.banana_peel": "Buccia di banana",
+  "entity.neapolitan.monkey": "Scimmia",
+  "entity.neapolitan.plantain_spider": "Ragno delle Piantaggine",
+  "entity.neapolitan.bananarrow": "Freccia-Banana",
+  
+  "effect.neapolitan.sugar_rush": "Scarica di zucchero",
+  "effect.neapolitan.vanilla_scent": "Profumo di vaniglia",
+  "effect.neapolitan.agility": "Agilità",
+  "effect.neapolitan.slipping": "Scivolando",
+  
+  "advancements.husbandry.creeper_heal.title": "Bomba D'amore",
+  "advancements.husbandry.creeper_heal.description": "Fatti guarire da un Creeper che è esploso in un cespuglio di fragole",
+  
+  "advancements.husbandry.vanilla_poison.title": "Vaniglia Assassina",
+  "advancements.husbandry.vanilla_poison.description": "Prendi la vaniglia senza cesoie, scatenando un'aura dannosa",
+  
+  "advancements.husbandry.place_all_chocolate_blocks.title": "Una costruzione di blocchi marroni",
+  "advancements.husbandry.place_all_chocolate_blocks.description": "Posiziona ogni tipo di blocco di cioccolato",
+  
+  "advancements.husbandry.harvest_white_strawberries.title": "Picnic tra le nuvole",
+  "advancements.husbandry.harvest_white_strawberries.description": "Ottieni fragole bianche coltivando cespugli di fragole ad alta quota",
+  
+  "subtitles.neapolitan.entity.monkey.angry": "Scimmia grida",
+  "subtitles.neapolitan.entity.monkey.death": "Scimmia muore",
+  "subtitles.neapolitan.entity.monkey.eat": "Scimmia mangia",
+  "subtitles.neapolitan.entity.monkey.howl": "Scimmia ulula",
+  "subtitles.neapolitan.entity.monkey.hurt": "Scimmia soffre",
+  "subtitles.neapolitan.entity.monkey.ambient": "Scimmia fa:ooo-ooo aaa-aaas",
+  "subtitles.neapolitan.entity.monkey.step": "Scimmia cammina",
+  "subtitles.neapolitan.entity.monkey.swing": "Scimmia oscilla",
+  
+  "subtitles.neapolitan.item.ice_cubes.eat": "Sgranocchio",
+  
+  "block.minecraft.banner.mca_monkey.black": "Scimmia nera",
+  "block.minecraft.banner.mca_monkey.red": "Scimmia Rossa",
+  "block.minecraft.banner.mca_monkey.green": "Scimmia Verde",
+  "block.minecraft.banner.mca_monkey.brown": "Scimmia Marrone",
+  "block.minecraft.banner.mca_monkey.blue": "Scimmia Blu",
+  "block.minecraft.banner.mca_monkey.purple": "Scimmia Viola",
+  "block.minecraft.banner.mca_monkey.cyan": "Scimmia Ciano",
+  "block.minecraft.banner.mca_monkey.silver": "Scimmia Grigio chiaro",
+  "block.minecraft.banner.mca_monkey.gray": "Scimmia Grigia",
+  "block.minecraft.banner.mca_monkey.pink": "Scimmia Rosa",
+  "block.minecraft.banner.mca_monkey.lime": "Scimmia Lime",
+  "block.minecraft.banner.mca_monkey.yellow": "Scimmia Gialla",
+  "block.minecraft.banner.mca_monkey.lightBlue": "Scimmia Blu chiaro",
+  "block.minecraft.banner.mca_monkey.magenta": "Scimmia Magenta",
+  "block.minecraft.banner.mca_monkey.orange": "Scimmia Arancione",
+  "block.minecraft.banner.mca_monkey.white": "Scimmia Bianca"
+}
